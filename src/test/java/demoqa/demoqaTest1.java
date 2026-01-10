@@ -17,7 +17,6 @@ public class demoqaTest1 {
         Configuration.holdBrowserOpen = true;
         Configuration.baseUrl = "https://demoqa.com";
     }
-
     @Test
     void name() {
         open("/text-box");
