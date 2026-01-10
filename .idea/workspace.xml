@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccaa136d-1029-4bc9-93ba-46b5b2d5846a" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/guru-2025.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/guru-2025.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/junit/FirstJunitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/junit/FirstJunitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/junit/FirstJunitTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +91,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.FirstJunitTest.successfulSearchTests (1)">
+  <component name="RunManager" selected="Gradle.FirstJunitTest.successfulSearchTests">
     <configuration name="FirstJunitTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -235,10 +229,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.FirstJunitTest.successfulSearchTests (1)" />
-        <item itemvalue="Gradle.FirstJunitTest (1)" />
         <item itemvalue="Gradle.FirstJunitTest.successfulSearchTests" />
         <item itemvalue="Gradle.FirstJunitTest" />
+        <item itemvalue="Gradle.FirstJunitTest.successfulSearchTests (1)" />
+        <item itemvalue="Gradle.FirstJunitTest (1)" />
         <item itemvalue="Gradle.SearchTests" />
       </list>
     </recent_temporary>
@@ -266,7 +260,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768018100117</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <option name="closed" value="true" />
+      <created>1768022077952</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768022077952</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
