@@ -21,7 +21,6 @@ public class demoqaTest2 {
     @Test
     void Test2() {
             open("/automation-practice-form");
-            $(".text-center").shouldHave(text("Practice Form"));
             $("#firstName").setValue("Evgeny");
             $("#lastName").setValue("Popov");
             $("#userEmail").setValue("evgenypopov1998@yandex.ru");
@@ -35,6 +34,12 @@ public class demoqaTest2 {
             $("label[for='hobbies-checkbox-1']").click();
             $("input#uploadPicture").uploadFile(new File("src/test/resources/test.pdf"));
             $("#currentAddress").setValue("Kazan");
-            $("div.css-9gakcf-option:contains('NCR')").click();
+            $("#state").click();
+            $("#react-select-3-option-0").click();
+            $("#city").click();
+            $("#react-select-4-option-0").click();
+            $("#submit").click();
+            $(".table-responsive").shouldHave(text("Evgeny"), text("Popov"), text("evgenypopov1998@yandex.ru"),
+                    text("9144210160"), text("January"), text("1998"), text("13"), text("Kazan"));
     }
 }

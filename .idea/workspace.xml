@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccaa136d-1029-4bc9-93ba-46b5b2d5846a" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/test.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/guru-2025.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/guru-2025.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/demoqa/demoqaTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/demoqa/demoqaTest2.java" afterDir="false" />
     </list>
@@ -85,6 +83,7 @@
     "Gradle.SearchTests.executor": "Run",
     "Gradle.demoqaTest1.executor": "Run",
     "Gradle.demoqaTest1.name.executor": "Run",
+    "Gradle.demoqaTest2.Test2 (1).executor": "Run",
     "Gradle.demoqaTest2.Test2.executor": "Run",
     "Gradle.demoqaTest2.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -104,7 +103,7 @@
       <recent name="$PROJECT_DIR$/src/test/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.demoqaTest2.Test2">
+  <component name="RunManager">
     <configuration name="JunitTest1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -213,7 +212,7 @@
       <GradleCoverageDisabled>false</GradleCoverageDisabled>
       <method v="2" />
     </configuration>
-    <configuration name="demoqaTest2.Test2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="demoqaTest2.Test2 (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -242,7 +241,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.demoqaTest2.Test2" />
+        <item itemvalue="Gradle.demoqaTest2.Test2 (1)" />
         <item itemvalue="Gradle.demoqaTest2" />
         <item itemvalue="Gradle.demoqaTest1" />
         <item itemvalue="Gradle.demoqaTest1.name" />
@@ -329,7 +328,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768046348977</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="test">
+      <option name="closed" value="true" />
+      <created>1768050755628</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1768050755628</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
