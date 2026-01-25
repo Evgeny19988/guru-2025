@@ -40,6 +40,6 @@ public class demoqaTest2 {
             $("#react-select-4-option-0").click();
             $("#submit").click();
             $(".table-responsive").shouldHave(text("Evgeny"), text("Popov"), text("evgenypopov1998@yandex.ru"),
-                    text("9144210160"), text("January"), text("1998"), text("13"), text("Kazan"));
+                    text("9144210160"), text("January"), text("1998"), text("13"),  text("Kazan"));
     }
 }
