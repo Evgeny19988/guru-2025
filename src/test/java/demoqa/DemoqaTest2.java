@@ -9,9 +9,8 @@ import java.io.File;
 import static com.codeborne.selenide.Condition.*;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
-import static com.codeborne.selenide.files.DownloadActions.click;
 
-public class demoqaTest2 {
+public class DemoqaTest2 {
     @BeforeAll
     static void BeforeAll() {
         Configuration.browserSize = "1920x1080";

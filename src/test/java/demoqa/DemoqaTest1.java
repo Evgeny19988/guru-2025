@@ -9,7 +9,7 @@ import static com.codeborne.selenide.Condition.visible;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
 
-public class demoqaTest1 {
+public class DemoqaTest1 {
     @BeforeAll
     static void BeforeAll() {
         Configuration.browser = "Firefox";
